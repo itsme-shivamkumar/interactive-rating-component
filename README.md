@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is an Interactive rating component made with HTML Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is an Interactive rating component made with HTML CSS and Javascript where user can view the optimal layout for the app irrespective of their device's screen size and select and submit a number rating which can be used as a feedback receiver or evaluater. User will be greeted with a "Thank you" message after their feedback submission.
 
 ## Table of contents
 
