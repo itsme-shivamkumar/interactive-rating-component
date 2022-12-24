@@ -70,7 +70,7 @@ I would like to make this interactive rating card component as a template which 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Shivam Kumar](#)
 - LinkedIn - [LinkedIn Profile](https://www.linkedin.com/in/shivam-kumar-9575a7227/)
 
 
